@@ -1,0 +1,16 @@
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MobileAppApi.exe
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\Data\CoffeeData.json
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MobileAppApi.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MobileAppApi.deps.json
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MobileAppApi.runtimeconfig.json
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MobileAppApi.pdb
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MediatR.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MediatR.Contracts.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meme_\source\repos\MobileAppApi\MobileAppApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
